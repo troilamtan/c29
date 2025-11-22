@@ -1,0 +1,12 @@
+{
+  "apr": {
+    "ldusdt":"2,16%",
+    "bfusd":"2,20%"
+  },
+  "cryptoToUsd": {
+    "usdt": 0.999
+  },
+  "usdToCurrencies": {
+    "vnd": 27840
+  }
+}
